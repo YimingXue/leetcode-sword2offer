@@ -3,6 +3,8 @@
 | ID   | 题名                                                         | Title                                                        | Difficulty | Answer          | Date       |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | --------------- | ---------- |
 | 33    | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/description/) | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | Medium       | [Python](https://github.com/YimingXue/LeetCode/blob/master/leetcode/xxx.py) | 2019-04-02 |
+| 104    | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/) | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | Easy       | [Python](https://github.com/YimingXue/leetcode-sword2offer/blob/master/leetcode/二叉树的最大深度.py) | 2019-04-02 |
+| 450    | [删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst/description/) | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) | Medium       | [Python](https://github.com/YimingXue/leetcode-sword2offer/blob/master/leetcode/删除二叉搜索树中的节点.py) | 2019-04-02 |
 
 
 
