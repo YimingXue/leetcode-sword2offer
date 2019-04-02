@@ -9,7 +9,7 @@
 
 
 
-## 剑指Offer Solution Table
+## Sword2Offer Solution Table
 
 | ID   | 题名 | Answer | Date |
 | ---- | ---- | ------ | ---- |
