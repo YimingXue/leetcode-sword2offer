@@ -8,7 +8,8 @@ class Solution:
         # 如果mid指向值和high指向值一样大小，则无法判断最小值的位置，需要令high-=1进行遍历
         # 当low指针大于等于high指针时跳出循环，输出low指针指向值既是最小值。
 
-        # 这道题有很多小坑，比如如果用mid处的值和数组左边的值比较，会有什么不同；else语句中如果不让right处的指向左移一位，而是让left处的指针右移一位会怎么样，都是需要稍加留意的地方。
+        # 这道题有很多小坑，比如如果用mid处的值和数组左边的值比较，会有什么不同；
+        # else语句中如果不让right处的指向左移一位，而是让left处的指针右移一位会怎么样，都是需要稍加留意的地方。
         # write code here
         if not rotateArray or len(rotateArray) == 0:
             return 0
