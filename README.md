@@ -11,6 +11,7 @@
 | 513    | [找树左下角的值](https://leetcode-cn.com/problems/find-bottom-left-tree-value/description/) | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/) | Medium       | [Python](https://github.com/YimingXue/leetcode-sword2offer/blob/master/leetcode/找树左下角的值.py) | 2019-04-03 |
 | 515    | [在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/description/) | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/) | Medium       | [Python](https://github.com/YimingXue/leetcode-sword2offer/blob/master/leetcode/在每个树行中找最大值.py) | 2019-04-05 |
 | 623    | [在二叉树中增加一行](https://leetcode-cn.com/problems/add-one-row-to-tree/description/) | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/) | Medium       | [Python](https://github.com/YimingXue/leetcode-sword2offer/blob/master/leetcode/在二叉树中增加一行.py) | 2019-04-06 |
+| 784    | [字母大小写全排列](https://leetcode-cn.com/problems/letter-case-permutation/description/) | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | Easy       | [Python](https://github.com/YimingXue/leetcode-sword2offer/blob/master/leetcode/二叉搜索树中的插入操作.py) | 2019-04-07 |
 
 
 
