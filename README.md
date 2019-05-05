@@ -26,6 +26,7 @@
 | 623    | [在二叉树中增加一行](https://leetcode-cn.com/problems/add-one-row-to-tree/description/) | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/) | Medium       | [Python](https://github.com/YimingXue/leetcode-sword2offer/blob/master/leetcode/在二叉树中增加一行.py) | 2019-04-06 |
 | 744    | [寻找比目标字母大的最小字母](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/description/) | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) | Easy       | [Python](https://github.com/YimingXue/leetcode-sword2offer/blob/master/leetcode/寻找比目标字母大的最小字母.py) | 2019-04-22 |
 | 784    | [字母大小写全排列](https://leetcode-cn.com/problems/letter-case-permutation/description/) | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | Easy       | [Python](https://github.com/YimingXue/leetcode-sword2offer/blob/master/leetcode/二叉搜索树中的插入操作.py) | 2019-04-07 |
+| 989    | [数组形式的整数加法](https://leetcode-cn.com/problems/add-to-array-form-of-integer/description/) | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/description/) | Easy       | [Python](https://github.com/YimingXue/leetcode-sword2offer/blob/master/leetcode/按公因数计算最大组件大小.py) | 2019-05-05 |
 
 
 
